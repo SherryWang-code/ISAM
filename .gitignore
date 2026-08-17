@@ -1,0 +1,35 @@
+# ---- Visual Studio / MSBuild ----
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ---- 编译输出目录 ----
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ---- 编译中间产物 ----
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.idb
+*.pgc
+*.pgd
+*.map
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# ---- WorkBuddy 内部记忆目录 ----
+.workbuddy/
